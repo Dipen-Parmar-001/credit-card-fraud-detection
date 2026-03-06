@@ -78,6 +78,11 @@ target/
 # Jupyter Notebook
 .ipynb_checkpoints
 
+# Ignore dataset files
+creditcard.csv
+data/
+*.csv
+
 # IPython
 profile_default/
 ipython_config.py
